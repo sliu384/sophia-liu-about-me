@@ -1,0 +1,17 @@
+main {
+  max-width: 720px;
+  margin: auto;
+  border: 1px solid black;
+}
+
+.profile {
+  background-color: #a1d58f;
+  border-radius: 50%;
+  display: inline-block;
+  float: left;
+  margin-left: 10%;
+}
+
+.desc {
+  align-items: right;
+}
