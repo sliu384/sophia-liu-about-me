@@ -3,18 +3,19 @@ main {
   border: 3px solid black;
 }
 
-.bio {
+/* .bio {
   max-width: 720px;
   max-height: fit-content;
-  text-align: center;
   border: 3px solid grey;
-}
+  align-items: center;
+  background-color: #758d6d;
+  justify-content: center;
+} */
 
 .profile {
   background-color: #a1d58f;
-  border-radius: 50%;
-  width: 350px;
-  height: 350px;
+  width: 250px;
+  height: 250px;
   float: inline-start;
   margin-left: 10%;
 }
