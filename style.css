@@ -13,8 +13,8 @@ main {
 .profile {
   background-color: #a1d58f;
   border-radius: 50%;
-  width: 250px;
-  height: 250px;
+  width: 350px;
+  height: 350px;
   float: inline-start;
   margin-left: 10%;
 }
