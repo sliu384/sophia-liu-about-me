@@ -16,8 +16,9 @@ main {
   background-color: #a1d58f;
   width: 250px;
   height: 250px;
-  float: inline-start;
+  float: left;
   margin-left: 10%;
+  justify-content: space-around;
 }
 
 .name {
