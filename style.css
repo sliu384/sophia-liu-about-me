@@ -14,16 +14,16 @@ main {
 
 .profile {
   background-color: #a1d58f;
-  width: 250px;
-  height: 250px;
-  float: left;
+  padding: 5px;
+  ?max width: 250px;
+  max height: 250px;
+  /* float: left;
   margin-left: 10%;
-  justify-content: space-around;
+  justify-content: space-around; */ 
 }
 
 .name {
   text-align: left;
-  margin-left: 30%;
 }
 
 .desc {
