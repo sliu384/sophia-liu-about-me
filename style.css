@@ -15,11 +15,11 @@ main {
 .profile {
   background-color: #a1d58f;
   padding: 5px;
-  max width: 250px;
-  max height: 250px;
-  /* float: left;
-  margin-left: 10%;
-  justify-content: space-around; */ 
+  width: 250px;
+  height: 250px;
+  float: left;
+  /* margin-left: 10%;
+  justify-content: space-around; */
 }
 
 .name {
