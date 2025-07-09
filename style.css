@@ -1,6 +1,6 @@
 #abt-me {
   margin: 10%;
-  border: 3px solid black;
+  /* border: 3px solid black; */
 }
 
 .profile {
@@ -24,7 +24,7 @@
 
 #projects {
   margin: 10%;
-  border: 3px solid black;
+  /* border: 3px solid black; */
 }
 
 .artwork {
@@ -36,4 +36,9 @@
 
 #socials {
   background-color: #729F62;
+  display: flex; 
+}
+
+.linkedin {
+  position: fixed; 
 }
