@@ -1,16 +1,7 @@
-main {
-  margin: 70px;
+#abt-me {
+  margin: 10%;
   border: 3px solid black;
 }
-
-/* .bio {
-  max-width: 720px;
-  max-height: fit-content;
-  border: 3px solid grey;
-  align-items: center;
-  background-color: #758d6d;
-  justify-content: center;
-} */
 
 .profile {
   background-color: #a1d58f;
@@ -24,9 +15,25 @@ main {
 
 .name {
   text-align: left;
+  justify-content: space-around;
 }
 
 .desc {
-  margin-left: 5%;
   text-align: left;
+}
+
+#projects {
+  margin: 10%;
+  border: 3px solid black;
+}
+
+.artwork {
+  background-color: #a1d58f;
+  width: 30%; 
+  height: 30%; 
+  justify-content: space-around;
+}
+
+#socials {
+  background-color: #729F62;
 }
