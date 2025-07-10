@@ -29,16 +29,43 @@
 
 .artwork {
   background-color: #a1d58f;
-  width: 30%; 
-  height: 30%; 
+  max-inline-size: 50%;
+  /* margin: 2%; */
+  justify-content: center;
+  display: block;
+  margin: auto;
+}
+
+.game {
+  max-inline-size: 75%;
+  display: block;
+  justify-content: center;
+  align-content: center;
+}
+
+.my-col-3 {
+  display: flex;
+  align-items: center;
   justify-content: space-around;
 }
 
+.my-col-3 .my-figure {
+  display: inline-flex;
+}
+
 #socials {
-  background-color: #729F62;
-  display: flex; 
+  background-color: #729f62;
+  display: flex;
+  width: 100%;
+  align-items: center;
+  height: 50px;
 }
 
 .linkedin {
-  position: fixed; 
+  position: fixed;
+  align-items: center;
+  color: black;
+  margin-left: 2%;
 }
+
+/* scroll snap */
