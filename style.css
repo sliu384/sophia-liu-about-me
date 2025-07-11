@@ -44,6 +44,10 @@ figure {
   width: 100%;
 }
 
+.iot-pjt .web-app{
+  text-align: center;
+}
+
 .my-col-3 {
   display: flex;
   align-items: center;
